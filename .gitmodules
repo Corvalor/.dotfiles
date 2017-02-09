@@ -1,0 +1,6 @@
+[submodule "awesome"]
+	path = awesome
+	url = ./awesome/
+[submodule ".emacs.d"]
+	path = .emacs.d
+	url = ./.emacs.d
