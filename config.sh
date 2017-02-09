@@ -8,3 +8,5 @@ sudo pacman -S luarocks
 sudo luarocks install luafilesystem
 rm -f ~/.bashrc
 ln ./.bashrc ~/.bashrc
+rm -f ~/.Xresources
+ln ./.Xresources ~/.Xresources
