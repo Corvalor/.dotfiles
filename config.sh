@@ -6,3 +6,5 @@ rm -r ~/.emacs.d
 ln -s ~/.dotfiles/.emacs.d ~/.emacs.d
 sudo pacman -S luarocks
 sudo luarocks install luafilesystem
+rm -f ~/.bashrc
+ln ./.bashrc ~/.bashrc
