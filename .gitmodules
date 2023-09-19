@@ -1,6 +1,6 @@
 [submodule "awesome"]
 	path = awesome
-	url = https://github.com/CKnappe/awesome/
+	url = git://github.com/Corvalor/awesome/
 [submodule ".emacs.d"]
 	path = .emacs.d
-	url = https://github.com/CKnappe/.emacs.d/
+	url = git://github.com/Corvalor/.emacs.d/
